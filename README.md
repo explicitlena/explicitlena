@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/kcwaVQJLWCqcK1s8zW/giphy.gif" width="70" height="70" />
+  </p>
+<h4 align="center"><samp> hi there! ✨  welcome to my github! ny name is lena, and i'm currently taking a 2 year study program becoming a front-end dev! 🌱 ☁️ </samp></h4>
+<br>
+<hr>
+<br>
 
-<!--
-**lenasorken/lenasorken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.laobi.icu/badge?page_id=lenasorken.lenasorken)
+[![Github](https://img.shields.io/github/followers/lenasorken?label=Follow&style=social)](https://github.com/lenasorken.lenasorken)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/hcYsJPR6cueI2ruIVu/giphy.gif" width="70" height="70" />
+ </p> 
+<h4 align="center"><samp>✉️ find me here: 
+</samp></h4>
+<p align="center">
+  <img src = "https://media.giphy.com/media/ixXVVhKYJHvCbaqfXo/giphy.gif" width = "300" height = "300" align = "center">
+  <a href="mailto:lena_sorken@hotmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href="https://www.linkedin.com/in/lena-folde-sorken-6908b11ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
