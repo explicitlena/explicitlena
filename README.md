@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/kcwaVQJLWCqcK1s8zW/giphy.gif" width="70" height="70" />
   </p>
-<h4 align="center"><samp> hi! ny name is lena, and i'm currently taking a 2 year study program becoming a front-end dev! ✨ 🌱 ☁️ </samp></h4>
+<h4 align="center"><samp> hi! ny name is lena, and i'm currently taking a bachelor in front-end and mobile deveopment! ✨ 🌱 ☁️ </samp></h4>
 <br>
 <hr>
 <br>
