@@ -19,3 +19,6 @@
   <a href="mailto:lena_sorken@hotmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/lena-folde-sorken-6908b11ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenasorken)](https://github.com/lenasorken/github-readme-stats)
