@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/kcwaVQJLWCqcK1s8zW/giphy.gif" width="70" height="70" />
   </p>
-<h4 align="center"><samp> hi! ny name is lena, and i'm currently taking a bachelor in front-end and mobile deveopment! ✨ 🌱 ☁️ </samp></h4>
+<h4 align="center"><samp> hi! ny name is lena, and i'm currently taking a bachelor in front-end and mobile development! ✨ 🌱 ☁️ </samp></h4>
 <br>
 <hr>
 <br>
@@ -22,3 +22,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenasorken)](https://github.com/lenasorken/github-readme-stats)
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+</div>
