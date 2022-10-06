@@ -17,10 +17,11 @@
 <p align="center">
   <img src = "https://media.giphy.com/media/ixXVVhKYJHvCbaqfXo/giphy.gif" width = "300" height = "300" align = "center">
   <a href="mailto:lena_sorken@hotmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-  <a href="https://www.linkedin.com/in/lena-folde-sorken-6908b11ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lenasorken/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
+<h4 align="center"><samp>🌱 my skills:
+</samp></h4>
 <br> 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
