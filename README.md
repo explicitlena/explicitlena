@@ -6,8 +6,8 @@
 <hr>
 <br>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=lenasorken.lenasorken)
-[![Github](https://img.shields.io/github/followers/lenasorken?label=Follow&style=social)](https://github.com/lenasorken.lenasorken)
+![](https://visitor-badge.laobi.icu/badge?page_id=explicitlena.explicitlena)
+[![Github](https://img.shields.io/github/followers/explicitlena?label=Follow&style=social)](https://github.com/explicitlena.explicitlena)
 
 <p align="center">
   <img src="https://media.giphy.com/media/hcYsJPR6cueI2ruIVu/giphy.gif" width="70" height="70" />
@@ -20,7 +20,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 </div>
 <br>
@@ -30,6 +29,6 @@
 </samp></h4>
 <p align="center">
   <img src = "https://media.giphy.com/media/ixXVVhKYJHvCbaqfXo/giphy.gif" width = "300" height = "300" align = "center">
-  <a href="mailto:lena_sorken@hotmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href="mailto:lfs99@yahoo.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/lenasorken/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
