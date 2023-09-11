@@ -19,26 +19,18 @@
   
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-          "/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-          "/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-          "/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />
-          "/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-          "/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-          "/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          "/>
-
 </div>
 
 #
@@ -53,14 +45,12 @@
 
 #
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=explicitlena&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-![lena's github stats](https://github-readme-stats.vercel.app/api?username=explicitlena&show_icons=true&theme=dracula)
+![lena's github stats](https://github-readme-stats.vercel.app/api?username=explicitlena&show_icons=true&theme=gruvbox)
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=explicitlena&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=explicitlena&hide_progress=true&theme=gruvbox)
 
 #
 
-![GitHub Streak](https://streak-stats.demolab.com?user=explicitlenat&theme=dracula&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=explicitlenat&theme=gruvbox&border_radius=4.5)
