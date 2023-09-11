@@ -11,23 +11,38 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hcYsJPR6cueI2ruIVu/giphy.gif" width="70" height="70" />
- </p> 
+</p> 
  
 <h4 align="center"><samp>🌱 my skills:
 </samp></h4>
 <br> 
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>   
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+  
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+          "/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+          "/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          "/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />
+          "/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+          "/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
+          "/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          "/>
+
 </div>
-<br>
- 
- 
+
+#
+
 <h4 align="center"><samp>✉️ find me here: 
 </samp></h4>
 <p align="center">
@@ -36,9 +51,16 @@
   <a href="https://www.linkedin.com/in/lenasorken/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<br/>
-<br/>
+#
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=explicitlena&show_icons=true&count_private=true&hide_border=true" align="center" />  
-<br/>  
-<!--- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=explicitlena&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=explicitlena&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+![lena's github stats](https://github-readme-stats.vercel.app/api?username=explicitlena&show_icons=true&theme=dracula)
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=explicitlena&hide_progress=true)
+
+#
+
+![GitHub Streak](https://streak-stats.demolab.com?user=explicitlenat&theme=dracula&border_radius=4.5)
