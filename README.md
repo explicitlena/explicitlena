@@ -17,14 +17,15 @@
 </samp></h4>
 
 <div style="text-align: center;">
-    <img alt="html" width="30px" style="padding-right:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-    <img alt="css" width="30px" style="padding-right:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-    <img alt="js" width="30px" style="padding-right:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img alt="kotlin" width="30px" style="padding-right:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
-    <img alt="wordpress" width="30px" style="padding-right:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
-    <img alt="xd" width="30px" style="padding-right:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/>
-    <img alt="figma" width="30px" style="padding-right:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img alt="html" width="30px" style="padding-right:10px; display: inline-block; float: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    <img alt="css" width="30px" style="padding-right:10px; display: inline-block; float: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+    <img alt="js" width="30px" style="padding-right:10px; display: inline-block; float: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    <img alt="kotlin" width="30px" style="padding-right:10px; display: inline-block; float: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
+    <img alt="wordpress" width="30px" style="padding-right:10px; display: inline-block; float: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
+    <img alt="xd" width="30px" style="padding-right:10px; display: inline-block; float: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/>
+    <img alt="figma" width="30px" style="padding-right:10px; display: inline-block; float: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
+
 
 <br>
 
