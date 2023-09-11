@@ -15,7 +15,6 @@
  
 <h4 align="center"><samp>🌱 my skills:
 </samp></h4>
-<br> 
   
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
@@ -46,4 +45,4 @@
 
 #
 
-![GitHub Streak](https://streak-stats.demolab.com?user=explicitlenat&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=explicitlenat&theme=gruvbox)
