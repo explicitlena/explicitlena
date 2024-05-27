@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail&logoColor=white" alt="email me">
   </a>
     <br>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/lenasorken/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
 </div>
