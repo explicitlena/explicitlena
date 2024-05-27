@@ -13,9 +13,6 @@
     <hr>
     <br>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=explicitlena.explicitlena)
-[![Github](https://img.shields.io/github/followers/explicitlena?label=Follow&style=social)](https://github.com/explicitlena.explicitlena)
-
 <p align="center">
     <img src="https://media.giphy.com/media/hcYsJPR6cueI2ruIVu/giphy.gif" width="70" height="70" />
  </p> 
@@ -27,7 +24,7 @@
     <img alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
     <img alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
     <img alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img alt="js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />" />
+    <img alt="js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="wordpress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
     <img alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
@@ -36,4 +33,16 @@
     <img alt="postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
-
+<br>
+<br>
+<hr>
+<br>
+<div align="center">
+  <a href="mailto:lenasorken1999@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail&logoColor=white" alt="email me">
+  </a>
+    <br>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+</div>
